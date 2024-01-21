@@ -4,7 +4,7 @@
     "ModelID": "cc876b5a076c4d9c96e1c1b64e1d9255",
     "FileReferences": {
         "Icon": "",
-        "Model": "Nahida_1080.model3.json",
+        "Model": "Nahida.model3.json",
         "IdleAnimation": "",
         "IdleAnimationWhenTrackingLost": ""
     },
